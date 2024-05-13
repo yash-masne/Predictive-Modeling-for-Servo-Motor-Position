@@ -27,9 +27,7 @@ Engage with this project, share insights, and embark on a journey of discovery. 
 Tags and Hashtags:
 #PredictiveModeling #MachineLearning #DataScience #Project #Automation #IndustrialEngineering
 
-
 #
-
 # **More detailed explantion**
 
 
