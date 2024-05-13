@@ -24,9 +24,6 @@ Embedded are visualizations depicting the model's performance and the relationsh
 **Call to Action:**
 Engage with this project, share insights, and embark on a journey of discovery. Your input is invaluable as we strive towards excellence in industrial automation and predictive modeling.
 
-**Tags and Hashtags:**
-#PredictiveModeling #MachineLearning #DataScience #Project #Automation #IndustrialEngineering
-
 #
 ## **More detailed explantion**
 
