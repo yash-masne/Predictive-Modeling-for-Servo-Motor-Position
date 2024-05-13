@@ -29,7 +29,7 @@ Tags and Hashtags:
 
 
 
-**###More detailed explantion :**
+<h6>More detailed explantion</h6>
 
 1. **Import Libraries**: 
     - `pandas` is imported as `pd` for data manipulation and analysis.
