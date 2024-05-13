@@ -1,4 +1,4 @@
-# Predictive Modeling for Servo Motor Position
+# Servo Motor Position Prediction
 
 **Introduction:**
 In my project, I aimed to enhance precision and efficiency in industrial automation systems through predictive modeling. Specifically, I focused on forecasting the position of servo motors, a critical component in numerous automated processes. By leveraging machine learning, I aimed to revolutionize servo motor control, ultimately driving advancements in industrial automation technologies.
