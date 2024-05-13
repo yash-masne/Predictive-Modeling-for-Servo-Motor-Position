@@ -27,8 +27,7 @@ Engage with this project, share insights, and embark on a journey of discovery. 
 Tags and Hashtags:
 #PredictiveModeling #MachineLearning #DataScience #Project #Automation #IndustrialEngineering
 
-
-More Detailed Explanation :
+More detailed explantion :
 
 1. **Import Libraries**: 
     - `pandas` is imported as `pd` for data manipulation and analysis.
